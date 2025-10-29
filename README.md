@@ -47,10 +47,10 @@ Tracking errors were within acceptable limits, with the highest being ~0.2 units
 
 ## 👥 Authors & Contribution
 
-- **Nguyễn Thành Đăng** – System architecture, algorithm design
-- **Huỳnh Ngọc Kiên** – Data handling, communication protocol, code implementation (co-author)
-- **Nguyễn Phạm Ái Đoan** – Hardware integration
-- **Đoàn Công Quí** – Evaluation and visualization
+- **Nguyen Thanh Dang** – System architecture, algorithm design
+- **Huynh Ngoc Kien** – Data handling, communication protocol, code implementation (co-author)
+- **Nguyen Pham Ai Doan** – Hardware integration
+- **Doan Cong Qui** – Evaluation and visualization
 
 > 📬 Contact: kienhuynhngoc.tech@gmail.com
 > 📬 Contact: nguyenphamaidoan@gmail.com
